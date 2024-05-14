@@ -1,4 +1,4 @@
-# Welcome tto MyGuide offical Github page
+# Welcome to MyGuide offical Github page
 
 ## :We are working on a community discord, for help and chating
 
